@@ -1,0 +1,13 @@
+package com.jerry.springboot_jsp_thymeleaf;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootJspThymeleafApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootJspThymeleafApplication.class, args);
+    }
+
+}
